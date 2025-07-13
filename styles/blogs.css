@@ -1,0 +1,42 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  }
+
+header{
+    background-image: url(images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    margin: 50px 600px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    
+}
+
+.header{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+
+    
+}
+
+
+.bold{
+    font-size: 72px;
+   
+}
+
+
+h6{
+    font-size: 32px;
+    font-weight: 100px;
+}
+
+
+.action{
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 600px;
+}
